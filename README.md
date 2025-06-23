@@ -8,5 +8,6 @@ Bu projede Asp.net Core 6.0 sürümü kullanılarak Kişisel bir Portföy Projes
  * Mssql
  * c#
 
+![image](https://github.com/user-attachments/assets/071c3f79-b8e3-4cd5-84dc-7f627d2bb2cd)
 
-   
+
